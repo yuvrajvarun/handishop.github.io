@@ -1,0 +1,45 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+body{
+     background: url(../handimg/Vcart.PNG);
+}
+.login-box  {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%,-50%);
+     text-align:center;
+    display: block; 
+     width: 220px;
+     height: 450px;
+     margin: 15px;
+     border: 1px solid rgb(0, 100, 0);
+     background-color: #000;
+     box-sizing: border-box;
+}
+.login-box label{
+     margin-top: 60px;
+     border: 2px solid rgb(0, 0, 100);
+     background-color: skyblue;
+     text-align: center;
+}
+.admlog{
+     height: 25%%;
+     width: 50%;
+      border: 50%;
+      position: absolute;
+      top: -70px;
+      border-radius: 50px;
+      margin-left: -25px;
+}
+.login-box button{
+    position: absolute;
+    left: 35%;
+    margin-top: 30px;
+}
+.reg{
+     position:relative;
+  margin-top: 100px;
+}

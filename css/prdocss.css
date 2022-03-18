@@ -1,0 +1,29 @@
+.style{
+	border: 10px solid green;
+}
+#Loading{
+	text-align: center;
+	background: url('') no-repeat center;
+	height: 150px;
+}
+.body{
+	height: 100%;
+	width: 100%;
+}
+.columns{
+	column-width: 250px;
+}
+.box{  
+		 box-sizing: border-box;
+		  vertical-align: middle;
+	 width: 90%;
+	 width: fit-content;
+	 height: 250px;
+	 border:2px solid brown;
+	 border-radius:2px ;
+	 padding:8px;
+	  margin:30px;
+	  margin-bottom:30px;
+	  padding-top:5px ;
+	
+}

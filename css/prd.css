@@ -1,0 +1,40 @@
+.style{
+	border: 10px solid green;
+}
+#Loading{
+	text-align: center;
+	background: url('') no-repeat center;
+	height: 150px;
+}
+.body{
+	height: 100%;
+	width: 100%;
+}
+.pbox
+{
+	margin: auto;
+display: flex;
+justify-content:space-around;
+flex-wrap: wrap;
+
+}
+.box{  
+	 box-sizing: border-box;
+	 width: fit-content;
+	 height: 230px;
+	 border:1px dotted brown;
+	 border-radius:2px ;
+	 padding:8px;
+	  margin:30px;
+	  padding-top:5px ;
+	  flex: 1 1 200px;
+	  vertical-align: middle;
+	
+}
+.btcrt{
+	padding: 10px;
+	margin: 10px;
+}
+.a{
+	text-decoration: none;
+}

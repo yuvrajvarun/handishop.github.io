@@ -1,0 +1,2 @@
+
+UPDATE `product` SET `BRAND_ID` = '11', `PRODUCT_DETAILS` = 'SPORT SHOE', `PRICE` = '900' WHERE `product`.`PRODUCT_ID` = 10;

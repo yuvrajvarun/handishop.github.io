@@ -1,0 +1,17 @@
+.container{
+   border:8px solid green;
+   width:850px
+}
+
+.row{
+   border:4px solid RED;
+   
+}
+
+.label{
+  border:6px solid grey;
+  background-color:#da70d6;
+  color:#222;
+position:auto;
+  width:auto;
+}
